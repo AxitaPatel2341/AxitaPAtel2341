@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/AxitaPatel2341/AxitaPatel2341/main/images/octocat.png" /> <a href="https://twitter.com/axitapatel13" target="blank"><img src="https://img.shields.io/twitter/follow/axitapatel13?logo=twitter&style=for-the-badge" alt="axitapatel13" /></a> </p>
 
 ### Just programming + infosec stuff.
-  I am just another techie girl 👩‍💻 who loves to explore stuff. I am a dedicated learner and a developer who switched to cyber security 🕵️‍♀️. I like to work with Linux and Web FUNdamentals && just love to play CTFs👽. 
+  I am a Security Analyst and just a Techie 👩‍💻 who loves to explore stuff. I am a dedicated learner and a developer who switched to cyber security 🕵️‍♀️. I like to work with Linux and Web FUNdamentals && love to play CTFs👽. 
 
 <h3> Skills: </h3> 
 <!-- Python 🐉 / Linux 🐧️ / Networking 👩‍💻 / VAPT 🕸️ --> 
@@ -31,7 +31,7 @@
 <h3 align="left">Be my friend :) </h3>
 <p align="left">
 <a href="https://twitter.com/axitapatel13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axitapatel13" height="30" width="40" /></a>
-<a href="https://instagram.com/axitapatel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axitapatel01" height="30" width="40" /></a>
+<a href="https://instagram.com/axitapatel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eye4infosec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axita-patel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axita-patel1" height="30" width="40" /></a>
 </p>
 <!--
